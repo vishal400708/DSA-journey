@@ -9,4 +9,5 @@
 - Day 6: best time to buy and sell stock & third maximum number
 - Day 7: find minimum in sorted rotated array
 - Day 8: product of array except self
+- Day 9:contains duplicates
 - 
