@@ -6,5 +6,7 @@ Day 5: 3sum solve
 Day 6: 1.best time to buy and sell stock  2. third maximum number
 Day 7: find minimum in sorted rotated array
 Day 8: product of array except self
+Day 9: trapping rain water
+
 
 
