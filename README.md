@@ -11,3 +11,4 @@
 - Day 8: product of array except self
 - Day 9:contains duplicates
 - Day 10: trapping rain water
+- Day 11: Valid Palindrome
